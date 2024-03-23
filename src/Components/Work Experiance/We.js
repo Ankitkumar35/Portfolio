@@ -11,7 +11,7 @@ const styles = {
 const We = () => {
     return (
         <section className="we section-pad" id="exp">
-            <Heading title="Work Experiance" />
+            <Heading title="Work Experience" />
             <div className="we-grid">
                 {weData.map((data, index) => {
                     if (index % 2 === 1)
