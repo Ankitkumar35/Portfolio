@@ -1,0 +1,20 @@
+[
+    {
+        "type": "BACHELOR’S",
+        "company": "Indian Institute of Technology (ISM), Dhanbad",
+        "position": "Mechanical Engineering",
+        "duration": "July 2019 - May 2023"
+    },
+    {
+        "type": "AICSSE",
+        "company": "Delhi Public School, Ranchi",
+        "position": "PCM + Computer Science",
+        "duration": "April 2017 - April 2019"
+    },
+    {
+        "type": "SSC",
+        "company": "D.A.V. Public School, Ranchi",
+        "position": "PCMB + IT",
+        "duration": "April 2015 - April 2017"
+    }
+]

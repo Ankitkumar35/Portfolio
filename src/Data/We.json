@@ -1,0 +1,20 @@
+[
+  {
+    "type": "Full-Time Employee",
+    "company": "Bajaj Auto Limited, Pune, Maharashtra",
+    "position": "Software Developer",
+    "duration": "July 2023 - Mar 2023"
+  },
+  {
+    "type": "Internship",
+    "company": "Being Artifex",
+    "position": "Backend Developer",
+    "duration": "May 2022 - Jun 2022"
+  },
+  {
+    "type": "Internship",
+    "company": "The Site Monk",
+    "position": "Backend Developer",
+    "duration": "May 2021 - Jun 2021"
+  }
+]
