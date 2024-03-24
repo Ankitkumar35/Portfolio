@@ -1,25 +1,27 @@
 [
     {
         "type": "project",
-        "company": "Cowin Clone",
-        "position": "MERN Stack, SMS APIs",
-        "duration": "Jan 2022",
-        "github": "https://github.com/lusifer2644A/cowin_clone"
-        
-    },
-    {
-        "type": "project",
-        "company": "Devbook",
+        "company": "DevConnector",
         "position": "MERN Stack, HTML, CSS, Github APIs.",
         "duration": "Aug 2021 - Sep 2021",
-        "github": "https://github.com/lusifer2644A/DevBook"
-       
+        "github": "https://github.com/Ankitkumar35/DEVCONNECTOR",
+        "website": "https://projectdevbook.herokuapp.com/"
     },
     {
         "type": "project",
-        "company": "Sorting Visualiser",
+        "company": "Gym WebApp",
         "position": "React.js, HTML, CSS, JavaScript",
-        "duration": "June 2021",
-        "github": "https://github.com/lusifer2644A/Sorting-Visualizer"
+        "duration": "Jan 2022",
+        "github": "https://github.com/Ankitkumar35/GYM_WEB_APP-master-2",
+        "website": "https://gym-web-app-master-2-ankitkumar35.vercel.app/"
+        
+    },
+   
+    {
+        "type": "project",
+        "company": "Authneticator",
+        "position": "Node.js, Express, Passport",
+        "duration": "June 2023",
+        "github": "https://github.com/Ankitkumar35/NodeJS-Authenticator"
     }
 ]

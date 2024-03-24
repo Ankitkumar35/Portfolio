@@ -34,8 +34,8 @@ const Landing = () => {
           Ex-SDE Intern @Being Artifex
         </h2>
         <p className="s regular dgc">
-          I’m a graduate student pursued Bachelors of Technology in
-          Mechanical Engineering at IIT(ISM), Dhanbad.
+          I’m a graduated int 2023 with Bachelors of Technology in
+          Mechanical Engineering from IIT(ISM), Dhanbad.
         </p>
         <p className="s regular dgc">
           I build Web Applications and love doing Backend Development. I am
@@ -45,7 +45,7 @@ const Landing = () => {
           In my free time I do freelancing or get some nice clicks and clips.
         </p>
         <Button
-          link="https://bit.ly/3VtozIT"
+          link="https://drive.google.com/file/d/1WcWpQXnynCGegROxzIs5HVPHfPC5fx-L/view?usp=sharing"
           dataAos="fade-right"
         >
           Resume
